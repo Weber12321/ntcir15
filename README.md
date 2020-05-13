@@ -31,3 +31,9 @@
 7. 求出 baseline 資料集(七欄位版)
 8. 依據round來看最適模型
 9. JSD下周一定要出來 
+
+##### 2020-05-13
+
+老師建議 : 
+10. 試跑大會JSD & SciPy jsd，是否答案為零?
+11. Loss functoin Cross_entropy ->> JSD (how to implement our own loss function?)
