@@ -34,6 +34,6 @@
 
 ##### 2020-05-13
 
-老師建議 : 
-10. 試跑大會JSD & SciPy jsd，是否答案為零?
-11. Loss functoin Cross_entropy ->> JSD (how to implement our own loss function?)
+老師建議 :     
+10. 試跑大會JSD & SciPy jsd，是否答案為零?         
+11. Loss functoin Cross_entropy ->> JSD (how to implement our own loss function?)     
