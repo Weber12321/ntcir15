@@ -38,3 +38,10 @@
    
 10. 試跑大會JSD & SciPy jsd，是否答案為零?         
 11. Loss functoin Cross_entropy ->> JSD (how to implement our own loss function?)     
+
+##### 2020-05-29
+
+老師建議 :  
+
+12. 整理文件參加程式設計比賽
+13. 應用 RCNN 或 CRNN 方法
