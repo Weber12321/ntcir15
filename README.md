@@ -1,8 +1,10 @@
 # NOTE
-###### 比賽頁面連結 : http://sakailab.com/dialeval1/
+###### 比賽頁面連結 : http://sakailab.com/dialeval1/ 
 
-###### 官方Github : https://github.com/DialEval-1/LSTM-baseline
+###### 官方Github : https://github.com/DialEval-1/LSTM-baseline   
 
+###### 去年官方競賽Github : https://github.com/sakai-lab/stc3-dataset   
+ 
 ---
 
 ##### 2020-04-07
