@@ -139,8 +139,8 @@ def evaluate_nugget(id2pred, id2truth, alpha=.5, strict=False):
             dialog_scores.append(np.mean(c_turn_scores) *
                                  alpha + np.mean(h_turn_scores) * (1 - alpha))
 
-        # return -log2(np.mean(dialog_scores))
-        return np.mean(dialog_scores)
+        return -log2(np.mean(dialog_scores))
+        # return np.mean(dialog_scores)
 
     return {
         "jsd": _evaluate_nugget(jensen_shannon_div),
