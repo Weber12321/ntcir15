@@ -1,0 +1,9 @@
+python eval.py 202006161754_dev_eval.json dev_cn.json
+
+
+
+python train.py \
+    --task nugget \
+    --language chinese \
+    --learning-rate 1e-3 \
+    --batch-size 64
