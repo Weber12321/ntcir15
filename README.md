@@ -3,7 +3,9 @@
 
 ###### 官方Github : https://github.com/DialEval-1/LSTM-baseline   
 
-###### 去年官方競賽Github : https://github.com/sakai-lab/stc3-dataset   
+###### 去年官方競賽Github : https://github.com/sakai-lab/stc3-dataset     
+
+###### Leader Board : http://deepimagining.com/upload    
  
 ---
 
