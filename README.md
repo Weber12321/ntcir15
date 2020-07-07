@@ -3,7 +3,9 @@
 
 ###### 官方Github : https://github.com/DialEval-1/LSTM-baseline   
 
-###### 去年官方競賽Github : https://github.com/sakai-lab/stc3-dataset   
+###### 去年官方競賽Github : https://github.com/sakai-lab/stc3-dataset     
+
+###### Leader Board : http://deepimagining.com/upload    
  
 ---
 
@@ -47,3 +49,12 @@
 
 12. 整理文件參加程式設計比賽
 13. 應用 RCNN 或 CRNN 方法
+
+##### 2020-07-07
+| method        | JSD       | RNSS      |
+| ------------- | --------- | --------- |
+| TextCNN       | 0.048     | 0.141     |
+| LSTM          | 0.043     | 0.13      |
+| BiLSTM        | **0.040** | **0.129** |
+| Double-BiLSTM | 0.047     | 0.143     |
+
