@@ -57,4 +57,5 @@
 | LSTM          | 0.043     | 0.13      |
 | BiLSTM        | **0.040** | **0.129** |
 | Double-BiLSTM | 0.047     | 0.143     |
+| Double-BiLSTM (Maxlen 350/ Dim 300) | 0.0422     | 0.131     |
 
