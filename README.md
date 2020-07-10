@@ -61,4 +61,4 @@
 | BiLSTM (Maxlen 350/ Dim 300/ Token 50000/ Epoch 50) | 0.049     | 0.144     |
 | BiLSTM (Maxlen 350/ Dim 300/ Token 40000/ Epoch 50) | 0.048     | 0.140     |
 | WikiWord2Vec Double-BiLSTM | **0.036**     | **0.122**     |
-| BaiduWord2Vec Double-BiLSTM | 0.041     | 0.131     |
+| BaiduWord2Vec Double-BiLSTM | 0.039     | 0.128     |
