@@ -62,3 +62,15 @@
 | BiLSTM (Maxlen 350/ Dim 300/ Token 40000/ Epoch 50) | 0.048     | 0.140     |
 | WikiWord2Vec Double-BiLSTM | **0.036**     | **0.122**     |
 | BaiduWord2Vec Double-BiLSTM | 0.039     | 0.128     |
+
+       
+##### 2020-07-17   
+
+老師建議 :    
+1. 鎖定第一輪與最末輪對話的最大標籤，預測其餘標籤(E.g. Round 01 : Fix GNUG0, predict CNaN)。   
+2. 更改class Attention 為 tf.keras.attention，並且加入模型。          
+3. attention + 針對每1輪的每一個標籤做關鍵字(LLR 提取關鍵字)。           
+4. 訓練時也要放入前1輪的對話內容。            
+5. 新增特徵feature: 給兩個維度，總共有幾輪，現在是第幾輪(E.g. [1,7],[2,7]...)。        
+
+
