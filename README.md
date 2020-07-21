@@ -60,9 +60,9 @@
 | Double-BiLSTM (Maxlen 350/ Dim 300) | 0.0422     | 0.131     |
 | BiLSTM (Maxlen 350/ Dim 300/ Token 50000/ Epoch 50) | 0.049     | 0.144     |
 | BiLSTM (Maxlen 350/ Dim 300/ Token 40000/ Epoch 50) | 0.048     | 0.140     |
-| WikiWord2Vec Double-BiLSTM | **0.036**     | **0.122**     |
+| WikiWord2Vec Double-BiLSTM | 0.036     | 0.122    |
 | BaiduWord2Vec Double-BiLSTM | 0.039     | 0.128     |
-
+|  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data) | **0.036**     | **0.120**     |  
        
 ##### 2020-07-17   
 
