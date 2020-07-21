@@ -67,7 +67,7 @@
 ##### 2020-07-17   
 
 老師建議 :    
-1. 鎖定第一輪與最末輪對話的最大標籤，預測其餘標籤(E.g. Round 01 : Fix GNUG0, predict CNaN)。   
+<u>1. 鎖定第一輪與最末輪對話的最大標籤，預測其餘標籤(E.g. Round 01 : Fix GNUG0, predict CNaN)。</u>   
 2. 更改class Attention 為 tf.keras.attention，並且加入模型。          
 3. attention + 針對每1輪的每一個標籤做關鍵字(LLR 提取關鍵字)。           
 4. 訓練時也要放入前1輪的對話內容。            
