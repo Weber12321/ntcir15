@@ -64,7 +64,11 @@
 | BaiduWord2Vec Double-BiLSTM | 0.039     | 0.128     |
 |  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data) | 0.036     | 0.120     |  
 |  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector) | 0.037     | 0.121     |        
-|  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention) | **0.035**     | **0.120**     |        
+|  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention) | **0.035**     | **0.120**     |   
+|  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention/ 2 vector input) | 0.059     | 0.162     |   
+
+
+
 ##### 2020-07-17   
 
 老師建議 :    
