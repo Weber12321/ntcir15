@@ -67,7 +67,7 @@
 |  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention) | **0.035**     | **0.120**     |   
 |  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention/ 2 vector input/ llr) | 0.059     | 0.162     |  
 |  WikiWord2Vec Double-BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention/ llr) | 0.102     | 0.197     |  
-
+|  BERT vector BiLSTM (Add Round_feature / Fix first round as mean of train data / add previous vector / Attention) | 0.040     | 0.128     |  
 
 
 ##### 2020-07-17   
